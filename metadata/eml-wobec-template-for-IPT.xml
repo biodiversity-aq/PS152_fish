@@ -1,0 +1,76 @@
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+         packageId="https://ipt.gbif.org/resource?id=wobec/v1.0" system="http://gbif.org" scope="system"
+         xml:lang="eng">
+    <dataset>
+        <title xml:lang="eng"></title>
+        <keywordSet>
+            <keyword>Samplingevent</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>SOUTHERN OCEAN</keyword>
+            <keyword>WEDDELL SEA</keyword>
+            <keyword>ANTARCTICA</keyword>
+            <keyword>R/V POLARSTERN</keyword>
+            <keyword>MARINE ECOSYSTEMS</keyword>
+            <keyword>MARINE ENVIRONMENT MONITORING</keyword>
+            <keyword>BIODIVERSITY FUNCTIONS</keyword>
+            <keywordThesaurus>GCMD Science Keywords: https://gcmd.earthdata.nasa.gov/KeywordViewer/</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>WOBEC</keyword>
+            <keyword>Antarctica</keyword>
+            <keyword>Marine protected area</keyword>
+            <keyword>biodiversity</keyword>
+            <keyword>ecosystem</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY 4.0) License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unknown</maintenanceUpdateFrequency>
+        </maintenance>
+        <project id="https://www.biodiversa.eu/2024/04/15/wobec/">
+            <title>Weddell Sea Observatory of Biodiversity and Ecosystem Change (WOBEC)</title>
+            <personnel>
+                <individualName>
+                    <surName>last name</surName>
+                </individualName>
+                <role></role>
+            </personnel>
+            <abstract>
+                <para>The Weddell Sea Observatory of Biodiversity and Ecosystem Change (WOBEC) is a collaborative initiative involving 11 institutes from 8 countries, along with stakeholders from business, conservation, and society. The project aims to establish a systematic ecosystem monitoring framework in the Eastern Weddell Sea to provide a baseline for assessing future environmental changes. WOBEC integrates traditional and innovative monitoring techniques to track the impact of climate change on marine ecosystems and contributes to the development of the Weddell Sea Marine Protected Area (WSMPA) under the Convention for the Conservation of Antarctic Marine Living Resources (CCAMLR). Key project goals include making biodiversity data publicly accessible, co-developing a scientific monitoring framework with stakeholders, and applying cutting-edge technology for long-term monitoring.</para>
+            </abstract>
+            <funding>
+                <para>This research was funded by Biodiversa+ under the 2022–2023 BiodivMon Call (Grant: Biodiversa2022-341). The project &apos;Weddell Sea Observatory for Biodiversity and Ecosystem Change&apos; (WOBEC) is supported from April 1, 2024, to March 31, 2027. More information: https://www.biodiversa.eu/2024/04/15/wobec/</para>
+            </funding>
+            <studyAreaDescription>
+                <descriptor name="generic"
+                            citableClassificationSystem="false">
+                    <descriptorValue>The study area is the Eastern Weddell Sea, a critical region in Antarctica known for its role in global climate regulation and as a potential sanctuary for unique Antarctic species. The area is increasingly affected by climate change, including sea-ice decline, ocean warming, and acidification, necessitating systematic ecosystem monitoring. Despite its ecological significance, there is currently no structured long-term monitoring in this region, highlighting the need for WOBEC&apos;s efforts.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>WOBEC follows a co-design approach, engaging scientific and societal stakeholders through workshops to develop a comprehensive monitoring framework. The project compiles and makes publicly available historical, recent, and new ecosystem data through platforms like OBIS and EMODnet. It evaluates and applies various monitoring technologies, including autonomous observatories, Earth Observation systems, and traditional ship-based methods. Ecological data will be analyzed to produce scientific models and maps, refining the monitoring framework iteratively. The project will establish a data management plan and standard operating procedures for monitoring Essential Variables (EVs), ensuring long-term sustainability and accessibility of biodiversity data. Results will be disseminated through scientific publications, outreach materials, and engagement with policy-making bodies such as CCAMLR.</para>
+                </description>
+            </designDescription>
+        </project>
+    </dataset>
+</eml:eml>
