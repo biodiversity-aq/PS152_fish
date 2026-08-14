@@ -5,6 +5,8 @@ This repository contains the data transformation workflow and metadata used to p
 Files in `data/02_output/` are published via IPT at:  
 <https://ipt.biodiversity.aq/resource?r=ps152-wobec-fish>
 
+GitHub issue for this dataset: https://github.com/biodiversity-aq/wobec/issues/18
+
 ## Repository structure
 
 ```text
